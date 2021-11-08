@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jamsge/code-submission-backend/issues"
   },
-  "homepage": "https://github.com/jamsge/code-submission-backend#readme"
+  "homepage": "https://github.com/jamsge/code-submission-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
 }
