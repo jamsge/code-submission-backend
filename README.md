@@ -1,8 +1,5 @@
 # code-submission-backend
-hi there :) u get started like this
-1. do the `npm install`
-2. `npm run dev` to start development server on port 3000
 
-yay
+The `api` directory contains code for the codenao REST API. Use `docker build` to build, and `docker run -p {insert port here}:3000 -d <your username>/node-web-app` to run at a specified port.
 
 (todo: write a better readme)
